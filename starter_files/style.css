@@ -1,0 +1,29 @@
+h2, h3 {
+  color: #1fabe5;
+}
+body {
+  border: 5px solid #ffd24a;
+  font-family: Helvetica, Arial, sans-serif;
+}
+header {
+  background-color: #ff8523;
+  height: 150px;
+  text-decoration: none;
+}
+nav > a {
+  border: 1px solid white;
+  color: white;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: 0;}
+  article {
+max-width: 500px;
+padding: 10px;
+backround-color: #ff8523;
+}
+}
